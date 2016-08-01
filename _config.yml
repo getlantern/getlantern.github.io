@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://getlantern.github.io
+name: Lantern Dev Blog
+description: Interesting stuff from the Lantern dev team
+author: getlantern
+avatar: http://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=120&d=mm&r=g
+ga_domain: 
+ga_tracking_id: 
