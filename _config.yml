@@ -1,6 +1,9 @@
 excerpt_separator: ""
-highlighter: rouge
-markdown: kramdown
+pygments: true
+markdown: redcarpet
+markdown_ext:  markdown,mkdown,mkdn,mkd,md
+redcarpet:
+  extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "with_toc_data", "fenced_code_blocks"]
 url: http://getlantern.github.io
 name: Lantern Dev Blog
 description: Interesting stuff from the Lantern dev team
